@@ -25,5 +25,32 @@ INPUT OUTPUT
 
 - pak julkarnain berangkat kerja dengan mengendarai sepeda. lama perjalanannya 30 menit dengan kecepatan 20km/jam. berapa jarak dari rumah pak jul ketempat kerja?
 
+![Annotation 2021-10-28 231550](https://user-images.githubusercontent.com/92988781/139386567-4a920359-47f0-4a7b-8ddd-a3f42c2afe7c.png)
+
+
+-INPUT OUTPUT
+
+![Annotation 2021-10-28 232346](https://user-images.githubusercontent.com/92988781/139386641-7635940f-eb60-4d11-9296-16c235627bcd.png)
+
+
+VIA VSCODE
+
+
+![Annotation 2021-10-28 232530](https://user-images.githubusercontent.com/92988781/139386731-c602edd8-2505-4df1-9bc7-d9846187a448.png)
+
+
+- INPUT OUTPUT!
+
+[Annotation 2021-10-28 232558](https://user-images.githubusercontent.com/92988781/139386821-cd4ac088-e294-4eca-8217-5b71e5c0fe62.png)
+
+- MAKA JARAK DARI RUMAH PAK JUL KE KANTOR ADALAH : 10 KM
+
+
+3.
+
+
+
+
+
 
 
