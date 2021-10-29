@@ -41,7 +41,9 @@ VIA VSCODE
 
 - INPUT OUTPUT!
 
-[Annotation 2021-10-28 232558](https://user-images.githubusercontent.com/92988781/139386821-cd4ac088-e294-4eca-8217-5b71e5c0fe62.png)
+![Annotation 2021-10-28 232558](https://user-images.githubusercontent.com/92988781/139387299-68d4c912-1fac-49a3-a8c1-ba3cfa404cd0.png)
+
+
 
 - MAKA JARAK DARI RUMAH PAK JUL KE KANTOR ADALAH : 10 KM
 
