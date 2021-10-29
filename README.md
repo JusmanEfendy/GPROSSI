@@ -20,3 +20,10 @@ INPUT OUTPUT
 
 ![Annotation 2021-10-28 220609](https://user-images.githubusercontent.com/92988781/139380274-bcf82c73-97f7-4d12-83fb-a2d8db77003f.png)
 
+
+2. PAK JUL
+
+- pak julkarnain berangkat kerja dengan mengendarai sepeda. lama perjalanannya 30 menit dengan kecepatan 20km/jam. berapa jarak dari rumah pak jul ketempat kerja?
+
+
+
