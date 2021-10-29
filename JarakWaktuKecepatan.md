@@ -48,7 +48,30 @@ VIA VSCODE
 - MAKA JARAK DARI RUMAH PAK JUL KE KANTOR ADALAH : 10 KM
 
 
-3.
+3. Pak Yunan mengendarai motor dengan kecepatan 180 km/jam, Pak Yunan akan menempuh jarak 50 km. Berapa waktu yang dibutuhkan Pak Yunan?
+
+
+![Annotation 2021-10-28 234713](https://user-images.githubusercontent.com/92988781/139389750-8cf4db5e-86a9-4d00-97ad-de6da20a9544.png)
+
+
+- INPUT OUTPUT
+
+![Annotation 2021-10-28 234829](https://user-images.githubusercontent.com/92988781/139389848-58953daf-c46f-4c50-925d-ca672fed5c76.png)
+
+
+VIA VSCODE
+
+![Annotation 2021-10-28 235427](https://user-images.githubusercontent.com/92988781/139390032-582b4dac-0f67-47d6-951d-2da9430551c7.png)
+
+
+- INPUT OUTPUT
+
+![Annotation 2021-10-28 235510](https://user-images.githubusercontent.com/92988781/139390093-bd0500fa-e851-41cd-bc10-e84b573185be.png)
+
+- SELESAI
+
+
+
 
 
 
